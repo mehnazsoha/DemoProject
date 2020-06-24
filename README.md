@@ -3,11 +3,11 @@ This is a demo automation test script for API testing
 ### Language
 * Java
 
-Just clone it and import this project into IDE.
+Clone it and import this project into IDE. To run this project successfully then scroll down and install the required files.
 
-Then follow the steps,
+### Install Jars and Plugins in Eclipse
 1. Download the [Rest Assured](https://github.com/rest-assured/rest-assured/wiki/Downloads), [TestNG](https://mvnrepository.com/artifact/org.testng/testng), [Google guice](https://github.com/google/guice/wiki/Guice422), [JCommander](https://mvnrepository.com/artifact/com.beust/jcommander), [Jackson Databind](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind), [Jackson Annotations](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations), [Jackson Core](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core) and [Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson) jar files
-2. Right click on the project
+2. Go to Eclipse and right click on the project
 3. Click on *Properties*
 4. Click on *Java Build Path*
 5. Select *Libraries* and *Classpath*
