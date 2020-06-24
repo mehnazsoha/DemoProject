@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-27T03:18:02 BDT" name="Default suite" finished-at="2020-05-27T03:18:08 BDT" duration-ms="6029">
+    <groups>
+    </groups>
+    <test started-at="2020-05-27T03:18:02 BDT" name="Default test" finished-at="2020-05-27T03:18:08 BDT" duration-ms="6029">
+      <class name="StaticJson">
+        <test-method signature="addBook()[pri:0, instance:StaticJson@2f177a4b]" started-at="2020-05-27T03:18:02 BDT" name="addBook" finished-at="2020-05-27T03:18:08 BDT" duration-ms="5951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- StaticJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
